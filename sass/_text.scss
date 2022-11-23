@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-heading;
+}
+.text{
+    &-lg{
+        font-size: 1.5rem;
+    }
+    &-md{
+        font-size: 1.1rem;
+    }
+    &-sm{
+        font-size: .8rem;
+    }
+}

@@ -1,0 +1,47 @@
+/**
+* Colors
+*/
+$red: hsl(0, 100%, 66%);
+$gradient: hsl(249, 99%, 64%) to hsl(278, 94%, 30%);
+$white:  hsl(0, 0%, 100%);
+$lightViolet: hsl(270, 3%, 87%);
+$darkViolet: hsl(278, 68%, 11%);
+
+/**
+* Fonts
+*/
+$font-heading: 'Space Grotesk', sans-serif;
+$font-content: 'Space Grotesk', sans-serif;
+$font-button: 'Space Grotesk', sans-serif;
+
+/**
+* Screen sizes
+*/
+$screen_xs: '375px';
+$screen_sm: '640px';
+$screen_md: '768px';
+$screen_lg: '1024px';
+$screen_xl: '1280px';
+$screen_2xl: '1440px';
+$screen_3xl: '1600px';
+
+@media (min-width: $screen_xs) {
+}
+
+@media (min-width: $screen_sm) {
+}
+
+@media (min-width: $screen_md) {
+}
+
+@media (min-width: $screen_lg) {
+}
+
+@media (min-width: $screen_xl) {
+}
+
+@media (min-width: $screen_2xl) {
+}
+
+@media (min-width: $screen_3xl) {
+}

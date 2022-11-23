@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, li{
+    list-style-type: none;
+}
+img{
+    max-width: 100%;
+}
+
+body{
+    width: 100%;
+    font-family: $font-content;
+    font-weight: 500;
+}
+.container{
+    max-width: 90%;
+    margin: auto;
+}
